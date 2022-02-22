@@ -1,2 +1,2 @@
-# phesttas-api
-The REST API for Phesttas service
+# Phesttas API
+The REST API for event creators on Phesttas service
